@@ -11,3 +11,12 @@ We also load a script that affects that paragraph element.
 ```
 <p id="demo">Try putting some text in the paragraph tag like this and see what happens!</p>
 ```
+
+# Using Git
+You can get this code on your computer using Git. 
+
+If you have git installed on your computer, open a shell where you'd like to put the code
+
+```
+git clone git@github.com:welearncode/js-starting-with-html.git
+```
