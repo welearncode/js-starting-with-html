@@ -3,6 +3,8 @@ This is a minimal file to show how to put some output on the browser.
 
 Open the index.html file in your browser of choice, Chrome, IE, Firefox.
 
+This is based on material from https://www.w3schools.com/html/html_scripts.asp
+
 # What's going on
 In index.html we make a paragraph element.
 
